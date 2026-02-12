@@ -203,7 +203,7 @@ Use the [evaluation checklist](../checklists/evaluate-checklist.md) to assess:
 - **Need examples?** See [all examples](../templates/examples/)
 - **Need to evaluate?** Use the [evaluation checklist](../checklists/evaluate-checklist.md)
 - **Need to upgrade?** Follow the [upgrade checklist](../checklists/upgrade-checklist.md)
-- **Need help?** Open an [issue on GitHub](https://github.com/yang707716615-ai/AIDE-Standard/issues)
+- **Need help?** Open an [issue on GitHub](https://github.com/rolfie-han/AIDE-Standard/issues)
 
 ---
 

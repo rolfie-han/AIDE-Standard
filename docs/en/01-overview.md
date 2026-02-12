@@ -124,4 +124,4 @@ AIDE applies the same management principles to AI employees.
 
 ## Questions?
 
-Open an [Issue](https://github.com/yang707716615-ai/AIDE-Standard/issues) on GitHub or join the discussion.
+Open an [Issue](https://github.com/rolfie-han/AIDE-Standard/issues) on GitHub or join the discussion.
