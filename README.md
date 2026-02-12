@@ -26,7 +26,7 @@
 
 <p align="center">
   🇨🇳 <strong>中文</strong> (主语言 / Primary) | 
-  🇺🇸 <a href="#english-documentation">English</a> (In Progress)
+  🇺🇸 <a href="./README_EN.md">English</a>
 </p>
 
 ---
